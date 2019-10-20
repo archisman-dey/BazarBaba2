@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "167380001166",
+    "firebase_url": "https://manas-kriti.firebaseio.com",
+    "project_id": "manas-kriti",
+    "storage_bucket": "manas-kriti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167380001166:android:89cd29e93634a66ef284df",
+        "android_client_info": {
+          "package_name": "com.example.bazarbaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167380001166-beifpohg509u1de815uj37bopm6rtgqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bazarbaba",
+            "certificate_hash": "b5e76368af25700ec1d2ad4642b4cf5a32579d98"
+          }
+        },
+        {
+          "client_id": "167380001166-pddvken521n3njbsi09sap0im98vspf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5RmJa-CX3q9jXudSJyaG4VcIIhZ4dmdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167380001166-pddvken521n3njbsi09sap0im98vspf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
